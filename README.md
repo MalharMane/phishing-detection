@@ -65,7 +65,7 @@ To get started with this project locally, follow these steps:
 
 ## Demo
 
-You can view the live demo of this project [here](https://your-live-demo-link).
+You can view the live demo of this project [here](https://raag-malhar-phishing-website-detector.netlify.app/).
 
 ## Contributing
 
@@ -74,20 +74,8 @@ If you want to contribute to this project, feel free to fork the repository, cre
 - Add more features (e.g., API integration for more advanced phishing checks).
 - Fix bugs or improve performance.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Special thanks to **Sanika Patil** and **Ashokrao Mane College, Wathar** for the inspiration behind the project.
-- This project was developed as part of a college assignment.
-
-## Contact
-
-- **Name**: Sanika Patil
-- **Email**: example@domain.com
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
 
 ---
 
