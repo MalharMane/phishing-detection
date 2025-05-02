@@ -208,7 +208,7 @@ function App() {
       {/* Footer Section */}
       <footer className="footer mt-5">
         <div className="container text-center">
-          <p>Developed by <strong>Sanika Patil</strong> | <strong>Ashokrao Mane College, Wathar</strong></p>
+          <p>Developed by <strong>Malhar Mane</strong> | <strong>DYP</strong></p>
           <div className="social-links">
             <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
             <a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a> | 
